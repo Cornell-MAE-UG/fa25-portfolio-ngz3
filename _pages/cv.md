@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: <Nayana Zachariah> - CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
