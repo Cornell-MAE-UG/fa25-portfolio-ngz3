@@ -3,7 +3,7 @@ layout: project
 title: Homework 5 Statics
 description: Actuator system analysis
 technologies: [Goodnotes, Excel]
-image: /assets/images/static5.jpg
+image: /assets/images/statics5.jpg
 
 ---
 
