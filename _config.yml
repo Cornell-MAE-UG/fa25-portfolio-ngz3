@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Nayana Zachariah
 description              : Nayana Zachariah - Projects and CV 
-baseurl                  : "spring-2025-portfolio-Nayana" 
+baseurl                  : "/spring-2025-portfolio-Nayana" 
 
 #/spring-2025-portfolio-Nayana/
 # Theme and Style
