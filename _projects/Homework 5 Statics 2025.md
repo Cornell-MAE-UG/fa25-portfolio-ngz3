@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Homework 5 Statics
+title: Thermodynamics Porfolio
 description: Actuator system analysis
 technologies: [Goodnotes, Excel]
 image: /assets/images/statics5.jpg

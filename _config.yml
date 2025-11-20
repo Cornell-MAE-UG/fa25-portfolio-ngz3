@@ -15,7 +15,6 @@ name                     : Nayana Zachariah
 description              : Nayana Zachariah - Projects and CV 
 baseurl                  : "/fa25-portfolio-ngz3" 
 
-#/spring-2025-portfolio-Nayana/
 # Theme and Style
 theme: jekyll-theme-minimal
 color_scheme: light # light/default, dark, or aqua
