@@ -34,8 +34,11 @@ The images show us measuring the temperatures of the hot and cold reservoirs aft
 ### Observation
 The heat exchanger itself got hotter as the process occurred.
 
+### Change
 A change that you could do is increase the mass flow rate which would allow more of the cold fluid to pass through and more overall energy removed from the hotter fluid so that the delta t for cold would decrease as it is distribubted over time. 
 
+### Reflection
+Heat exchangers can be used in everyday devices like HVAC systems and car radiators. The systems from the lab is definetly not adiabatics as we assume when doing calculations. There is no controlled insulation from external conditions and the room as the ice was very quickly melting from the rooms temperature and this impacted the accuracy of the values we could derive from the experiment. Also, if it was adiabtics when doing the energy balance equations the delta temperature changes would equal but they do not due to excess heat dissipating and imput from the surroundings. This shows it is not actually steady state but creating an insulated system would be a way to get there. We would be able to ignore kinetic energy change as the velocity is low, the kinetic energy term matters more in higher speed systems like jet turbines.
 ```
 ```
 
