@@ -3,7 +3,7 @@ layout: project
 title: Thermodynamics Porfolio
 description: Actuator system analysis
 technologies: [Goodnotes, Excel]
-image: /assets/images/4607.jpg
+image: /assets/images/Thermo-Calc.jpg
 
 ---
 
