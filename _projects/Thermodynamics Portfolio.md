@@ -12,22 +12,22 @@ I chose to do the mini lab offered by the class where me and 3 others worked wit
 ![Shaded rendering of earlier version]({{ "/assets/images/systemdiagram.png" | relative_url }}){: .inline-image-r style="width: 200px"}.
 When doing the experiment we ran the pumps from their respective reservoirs and measured the before and after temperatures from the system. The pump would move the hot or cold water throught the heat exchanger and bring it to the other side. 
 
-Our Data:
-Parallel
-Red liquid inlet: 40°C
-Red liquid outlet: 25.5°C
-Blue liquid inlet: 4.7°C
-Blue liquid outlet: 20.0°
+## Our Data
 
-Counterflow
-Red liquid inlet: 40.1°C
-Red liquid outlet: 24.6°C
-Blue liquid inlet: 6.5°C
-Blue liquid outlet: 26.0°
+### Parallel Flow
+- Red liquid inlet: 40°C  
+- Red liquid outlet: 25.5°C  
+- Blue liquid inlet: 4.7°C  
+- Blue liquid outlet: 20.0°C  
 
-Observation
-The heat exchanger itself got hotter as the process occured. 
+### Counterflow
+- Red liquid inlet: 40.1°C  
+- Red liquid outlet: 24.6°C  
+- Blue liquid inlet: 6.5°C  
+- Blue liquid outlet: 26.0°C  
 
+### Observation
+The heat exchanger itself got hotter as the process occurred.
 
 
 
