@@ -3,7 +3,7 @@ layout: project
 title: space
 description: Assignment
 technologies: [Goodnotes, Calculator]
-image: /assets/images/statics5.jpg
+image: /assets/images/old-radio.jpg
 ---
 
 I drew a system that has 3 pins, on at A connecting the linear actuator to the ground. Next, connecting the actuator bar to the lever bar. Lastyly, pinning the lever bar to the ground. I used the integrated servo actuator which has an extension length of 50cm and max of 36 kN of force.
