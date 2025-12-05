@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Statics HW
+title: space
 description: Assignment
 technologies: [Goodnotes, Calculator]
 image: /assets/images/statics5.jpg
