@@ -15,11 +15,27 @@ Using an height of 30 cm which can be calucated using geometry, we can find the 
 
 <img src="{{ '/assets/images/Calculations.jpg' | relative_url }}" width="500">
 
-
-
+This image shows the calculations done in Step 1 for Homework 5.
 
 
   ## Step 2
+
+  2a) Now considering the beam is no longer rigid like in Step 1, we must find the maximum deflection in your beam.
+  Assumptions: phi= 36.87
+               theta= 53.13
+               w= 60 kN
+               thickness = 2cm
+               A= 2cm x 2 cm for the beam
+Now using the appendix we can use the formula Delta L= FL^3/ 3EI to find the deflection of the beam. 
+By using these assumptions we calculate the I value using bh^3/12. The force is found by weight times sin theta.
+As you see in the image, the max deflection is 105.46 mm which makes sense in regard to the assumptions of this set up.
+
+2b) Now we are redesigning the beam's cross section/ material in order for its vertical deflection to be below 2% of its length and is the most mass-efficient possible.
+
+First we calculate how much the deflection is which is L times 0.02 which equals 0.0075m
+Then we must change the I value to accomodate cross sectional changes. Alos the material property should change to be more stiff as 
+0.0075 is a very small amount when it can deflect 0.105m max. I chose a high modulus carbon fiber material which has a youngs modulus
+of 800 GPa. Also, I changed the base to be 0.022m and height to be 0.03m. The image below shows the calculations for step 2 and the drawing changes.
 
 
 
