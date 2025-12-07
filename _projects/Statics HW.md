@@ -18,7 +18,7 @@ Using an height of 30 cm which can be calucated using geometry, we can find the 
 This image shows the calculations done in Step 1 for Homework 5.
 
 
-  ## Step 2
+ Step 2
 
   2a) Now considering the beam is no longer rigid like in Step 1, we must find the maximum deflection in your beam.
   Assumptions: phi= 36.87
