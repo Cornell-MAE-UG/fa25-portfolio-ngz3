@@ -43,3 +43,4 @@ of 800 GPa. Also, I changed the base to be 0.022m and height to be 0.03m. The im
 
 
 
+
