@@ -37,7 +37,7 @@ Then we must change the I value to accomodate cross sectional changes. Alos the 
 0.0075 is a very small amount when it can deflect 0.105m max. I chose a high modulus carbon fiber material which has a youngs modulus
 of 800 GPa. Also, I changed the base to be 0.022m and height to be 0.03m. The image below shows the calculations for step 2 and the drawing changes.
 
-<img src="{{ 'assets/images/HW12.jpg' | relative_url }}" width="500">
+<img src="{{ 'assets/images/Staticspic.jpg' | relative_url }}" width="500">
 
 
 
