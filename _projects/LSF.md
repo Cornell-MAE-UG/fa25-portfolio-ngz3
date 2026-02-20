@@ -16,7 +16,7 @@ repeated pesticide applications that increase labor and chemical costs. However,
 shaking, suction, brushing, or high-force airflow—risk damaging grapes or interfering with harvesting machinery, leaving
 no effective way to remove SLF during harvest without harming the crop.
 
-Impact
+### Impact
 
 We chose to address the problem of removing spotted lanternflies from grapevines without harming the plants. Because
 these insects feed on sap, they weaken vines and reduce fruit yield. However, any removal method that damages leaves,
