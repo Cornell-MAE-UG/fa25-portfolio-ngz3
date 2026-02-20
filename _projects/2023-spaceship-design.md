@@ -1,8 +1,8 @@
 ---
 layout: project
-title: space
+title: hi
 description: Assignment
-technologies: [Goodnotes, Calculator]
+technologies: []
 image: /assets/images/old-radio.jpg
 ---
 
