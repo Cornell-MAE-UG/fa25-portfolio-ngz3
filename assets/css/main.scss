@@ -1,19 +1,12 @@
 ---
-# this ensures Jekyll reads the file to be transformed into CSS later
-# only Main files contain this front matter, not partials.
---- 
+---
+
+/* this ensures Jekyll reads the file to be transformed into CSS later
+   only main files contain this front matter, not partials. */
 
 $color_scheme: '{{ site.color_scheme }}';
+
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Merriweather:wght@400;700&display=swap');
 @import "custom";
 
-/* Spacing for project markdown content */
-h2, h3 {
-  display: block;
-  margin: 2rem 0 0.75rem 0;
-}
-
-p {
-  margin: 0 0 1rem 0;
-}
