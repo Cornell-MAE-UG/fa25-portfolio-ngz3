@@ -1,6 +1,6 @@
 ---
 layout: project
-title: LSF Project
+title: SLF Project
 description: Assignment
 technologies: [Google, Group Discussion]
 image: /assets/images/LSF.jpg
