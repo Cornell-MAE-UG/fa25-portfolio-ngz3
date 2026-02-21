@@ -49,7 +49,8 @@ enter the trap or trigger a motion sensor that activates a low pressure vacuum t
 3. **Are there any specific “organic” or food-grade certifications your vineyard holds that would prohibit certain artificial scents or lures?**  
    **Decision affected:** Determines which lures we can use.
 
-References and/or one figure
+## References and/or one figure
+
 References
 
 • https://www.psu.edu/news/research/story/lanternflys-attraction-vertical-silhouettes-could-help-monitor-trap-
