@@ -13,3 +13,8 @@ My name is Nayana Zachariah, and I am a [Mechanical Engineering student at Corne
 
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+
+<br><br>
+<a href="{{ "/O3_ClientOutline.pdf" | relative_url }}" target="_blank">
+  View Client Outreach Outline (PDF)
+</a>
