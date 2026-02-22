@@ -8,8 +8,9 @@ image: /assets/images/LSF.jpg
 
 Team: SLF Crushers Client(s): Cornell CALS Extension / E&J Gallo Winery / National Grape
 
-https://github.com/Cornell-MAE-UG/fa25-portfolio-ngz3/blob/main/O3_ClientOutline.pdf
-
+<a href="{{ "/O3_ClientOutline.pdf" | relative_url }}" target="_blank" rel="noopener">
+  View Client Outreach Outline (PDF)
+</a>
 
 
 
