@@ -2,7 +2,7 @@
 layout: project
 title: Project X-termination of SLF
 description: Assignment
-technologies: [Google, Group Discussion]
+technologies: [Google, Mechanical Design]
 image: /assets/images/LSF.jpg
 ---
 
