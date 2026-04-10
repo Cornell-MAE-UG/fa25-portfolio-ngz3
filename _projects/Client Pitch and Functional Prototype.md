@@ -79,5 +79,5 @@ Test whether a rotating peg system can guide objects into a chamber without jamm
 
 ## Full Documents
 
-- [View Client Outline (PDF)](/O3_ClientOutline1.pdf)
-- [View Functional Prototype (PDF)](/Functional_Prototype.pdf)
+- [View Client Outline (PDF)]({{ '/O3_ClientOutline1.pdf' | relative_url }})
+- [View Functional Prototype (PDF)]({{ '/Functional_Prototype.pdf' | relative_url }})
