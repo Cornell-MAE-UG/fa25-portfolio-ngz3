@@ -1,6 +1,6 @@
 ---
 layout: project
-title: hi
+title: Client Pitch and Functional Prototype
 description: Assignment
 technologies: []
 image: /assets/images/old-radio.jpg
