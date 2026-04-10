@@ -1,6 +1,7 @@
 ---
 layout: project
 title: "SLF Crushers"
+image: /assets/images/LSF.jpg
 ---
 
 ## Table of Contents
