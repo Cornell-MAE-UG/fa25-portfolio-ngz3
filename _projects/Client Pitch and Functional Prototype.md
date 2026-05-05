@@ -61,10 +61,68 @@ The prototype tested whether a rotating peg-and-wall system could guide surrogat
 
 Our prototype exceeded all three success criteria. The Peg Guidance Test showed that the system can guide objects toward the center with minimal bypass and no jamming or compression. The Chamber Drop Test showed that the collection chamber works reliably, with only one partial entry and no bounce-out or missed openings. The Rotational Test showed that the system can complete full 360° rotations under motor power, although future improvements should reduce sticking and base movement.
 
-### Final Scores
-- **GPI:** 93.0  
-- **CRI:** 92.5  
-- **RSI:** 85.0  
+### 1. Peg Guidance Test (GPI ≥ 80)
+Measures whether objects are guided to the center without failure.
+- Bypass (B), jamming (J), and compression (C) are penalized  
+- Compression is most severe  
+
+---
+
+### 2. Chamber Drop Test (CRI ≥ 80)
+Measures whether objects enter the chamber cleanly.
+- Partial entry (P), bounce-out (B), and missed entry (M) penalized  
+- Missed entry is most severe  
+
+---
+
+### 3. Rotational Test (RSI ≥ 80)
+Measures ability to complete powered 360° rotation.
+- Sticking (K), displacement (D), failed rotation (F) penalized  
+- Failed rotation is most severe  
+
+---
+
+## Results + Evaluation
+
+The prototype exceeded all success criteria:
+
+| Test | Result | Score |
+|------|--------|------|
+| Peg Guidance | 19/20 successes | **GPI = 93.0** |
+| Chamber Drop | 19/20 successes | **CRI = 92.5** |
+| Rotational | 18/20 successes | **RSI = 85.0** |
+
+### Key Observations
+
+- **GPI:** Strong guidance with no jamming or compression; one bypass due to early misalignment  
+- **CRI:** Reliable capture; one partial entry before alignment refinement; no bounce-out or misses  
+- **RSI:** System completes full rotations; minor sticking and base movement due to torque  
+
+Overall, the system **successfully demonstrates guidance, capture, and rotation**, with remaining issues primarily related to scaling and stability.
+
+---
+
+## Conclusion + Future Work
+
+The prototype meets all **success criteria** and demonstrates a viable, non-destructive method for capturing SLF using controlled mechanical motion.
+
+### Improvements
+
+- **GPI (Guidance):**  
+  Scale system to full size (1 m height, 1.07 m diameter) and reinforce structure to maintain alignment and prevent bypass or deformation  
+
+- **CRI (Capture):**  
+  Refine chamber opening and peg placement to improve drop alignment and reduce partial entry  
+
+- **RSI (Rotation):**  
+  Use a **12V–24V low-speed, high-torque gear motor** and improve load distribution to ensure stable, continuous rotation  
+
+### Next Steps
+
+- Field testing in vineyard conditions  
+- Evaluate long-term durability and capture efficiency  
+- Optimize attractant effectiveness  
+- Improve cost and scalability for agricultural deployment  
 
 ### Future Recommendations
 To improve the GPI, the system should be scaled to the target size with added structural reinforcement so the peg and wall system stays aligned. To improve the CRI, the chamber opening and final peg placement should be refined so SLF have more room to fall cleanly into the container. To improve the RSI, a stronger low-speed, high-torque 12V–24V gear motor and better load distribution should be used to support continuous full-scale rotation.
