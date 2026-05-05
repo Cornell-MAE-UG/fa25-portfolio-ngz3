@@ -75,4 +75,4 @@ To improve the GPI, the system should be scaled to the target size with added st
 
 - [View Client Outline (PDF)]({{ '/assets/pdfs/client-outline.pdf' | relative_url }})
 - [View Functional Prototype (PDF)]({{ '/assets/pdfs/functional-prototype.pdf' | relative_url }})
-- [View ODP6 Final SLF Crushers Report (PDF)]({{ '/assets/pdfs/odp6-slf-crushers.pdf' | relative_url }})
+- [View ODP6 Final SLF Crushers Report (PDF)]({{ '/assets/pdfs/ODP6_SLF_Crushers(1).pdf' | relative_url }})
