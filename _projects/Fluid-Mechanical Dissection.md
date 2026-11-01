@@ -1,9 +1,9 @@
 ---
 layout: project
 title: Fluid-Mechanical Dissection
-description: Actuator system analysis
+description: Assignment
 technologies: [Goodnotes, Excel]
-image: 
+image: /assets/images/spaceship-design.jpg
 
 ---
 
